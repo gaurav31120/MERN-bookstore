@@ -1,0 +1,9 @@
+Here, I will make bookstore application having frontend and backend using MERN stack.
+Technology used:
+HTML            
+Tailwind CSS
+JavaScript
+React
+Nodejs
+Express
+MongoDB
