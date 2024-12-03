@@ -1,0 +1,22 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "mern bookstore project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav31120/MERN-bookstore.git"
+  },
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurav31120/MERN-bookstore/issues"
+  },
+  "homepage": "https://github.com/gaurav31120/MERN-bookstore#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
